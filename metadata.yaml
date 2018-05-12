@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4519
     wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42400#Mr.-Punch-s-Book-of-LoveBeing-the-Humours-of-Courtship-and-Matrimony
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2013-03-24'
 gutenberg_type: Text
